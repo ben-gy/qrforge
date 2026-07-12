@@ -56,7 +56,7 @@ Scan:      image / camera frame ─▶ canvas ─▶ BarcodeDetector (or jsQR) �
 - Vitest for unit tests
 - GitHub Pages for hosting, deployed via GitHub Actions
 
-No analytics, no cookies, no third-party fonts, no telemetry.
+No cookies, no fingerprinting, no third-party fonts. Anonymous, cookie-less page-view counts via Cloudflare Web Analytics — no personal data, no cross-site tracking.
 
 ## local development
 
