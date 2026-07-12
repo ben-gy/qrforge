@@ -1,0 +1,17 @@
+{
+  "name": "QRForge — tracking-free QR codes",
+  "short_name": "QRForge",
+  "description": "Generate tracking-free QR codes and scan them — entirely in your browser.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f7fb",
+  "theme_color": "#4f46e5",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
