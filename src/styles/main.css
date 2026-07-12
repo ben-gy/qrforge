@@ -1099,8 +1099,9 @@ a:hover {
   .statusbar {
     padding: 8px 16px;
     font-size: 10.5px;
+    flex-wrap: wrap;
   }
   .attribution {
-    display: none;
+    font-size: 10px;
   }
 }

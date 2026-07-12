@@ -6,7 +6,7 @@
  * network call at runtime.
  */
 
-const CACHE = 'qrforge-shell-v1';
+const CACHE = 'qrforge-shell-v2';
 
 self.addEventListener('install', (event) => {
   self.skipWaiting();
