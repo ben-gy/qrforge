@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://qrforge.benrichardson.dev/sitemap.xml
